@@ -83,7 +83,7 @@
         </constraints>
         <properties>
           <actionCommand value="Logout"/>
-          <text value="Login"/>
+          <text value="Logout"/>
         </properties>
       </component>
     </children>
